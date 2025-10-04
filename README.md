@@ -123,7 +123,7 @@ The architecture is designed around the following goals:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/aws-scalable-architecture.git
+   git clone https://github.com/moamen800/aws-scalable-architecture.git
    cd aws-scalable-architecture
    ```
 
