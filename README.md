@@ -127,7 +127,7 @@ The architecture is designed around the following goals:
    ```bash
    git clone https://github.com/<your-username>/aws-scalable-architecture.git
    cd aws-scalable-architecture
-````
+   ```
 
 2. Open the architecture diagram (`architecture-diagram.png`) to review the infrastructure design.
 
@@ -157,20 +157,7 @@ The architecture is designed around the following goals:
 
 ## ✨ Author
 
-* **Your Name**
-* GitHub: [@your-username](https://github.com/your-username)
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* **Moamen Ahmed**
+* GitHub: [@moamen800](https://github.com/moamen800)
+* Email: [moamenahmed800@gmailcom](mailto:moamenahmed800@gmailcom
 
----
-
-## 📧 Contact
-
-For inquiries, suggestions, or contributions, feel free to reach out via email or GitHub issues.
-
-```
-
-
----
-
-Do you want me to also prepare the **exact Git commands** (init → commit → push to GitHub) so you can publish this repo quickly?
-```
