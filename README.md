@@ -98,8 +98,6 @@ The architecture is designed around the following goals:
 
 ![Architecture Diagram](architecture-diagram.png)
 
-*(Replace with your actual Lucidchart export file name if different.)*
-
 ---
 
 ## 🛠️ Tools & Technologies
